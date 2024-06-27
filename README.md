@@ -29,7 +29,7 @@ Clone the repository:
 
 # bash
 
-git clone https://github.com/your-username/cascade.git
+git clone
 cd cascade
 Set up virtual environment (optional but recommended):
 
