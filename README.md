@@ -1,11 +1,11 @@
 # Cascade: Multi-Factor Authentication System
-Cascade is a Django-based web application that enhances user security through multi-factor authentication (MFA). It provides three layers of authentication: username/password, OTP (One-Time Password), and Captcha verification. This project also includes user registration, forgot password/reset password functionalities, and a secure logout mechanism.
+Cascade is a Django-based web application that enhances user security through multi-factor authentication (MFA). It provides three layers of authentication: username/password, OTP (One-Time Password), and Captcha verification. This project includes user registration, forgot password/reset password functionalities, and a secure logout mechanism.
 
 # Features
 Multi-Factor Authentication (MFA):
 
 Username/Password authentication.
-OTP via SMS or email for added security.
+OTP via email for added security.
 Captcha verification to prevent automated attacks.
 
 # User Management:
