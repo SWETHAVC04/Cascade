@@ -3,14 +3,14 @@ Cascade is a Django-based web application that provides robust multi-factor auth
 
 # Features
 ## User Authentication: 
--Username/Password login. 
--Captcha verification. 
--OTP via email. 
--Security questions for additional authentication.
+- Username/Password login. 
+- Captcha verification. 
+- OTP via email. 
+- Security questions for additional authentication.
 
 ## User Management: 
--User registration. 
--Forgot password/reset password functionality.
+- User registration. 
+- Forgot password/reset password functionality.
 
 # Technologies Used 
 ### Backend: Django
